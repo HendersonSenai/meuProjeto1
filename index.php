@@ -10,17 +10,12 @@ echo "\n Minha biblioteca foi carregada";
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu primeiro Git funcionando</title>
+    <title>Meu Git com Branch</title>
 </head>
 <body>
-    <h1> Meu primeiro Git</h1>
-    <?php 
-    echo "\n Minha biblioteca foi carregada";
-    ?>
-    <br>
-    <h1> Meu segundo commit:</h1>
-    <?php 
-    echo "\n Mudando arquivo para registrar meu segundo commit v1.2";
+    <h3> Esse é meu arquivo index alterado em uma nova branch de teste</h3>
+    <?php
+    phpinfo()
     ?>
 </body>
 </html>
