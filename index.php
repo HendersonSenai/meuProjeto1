@@ -10,17 +10,12 @@ echo "\n Minha biblioteca foi carregada";
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu primeiro Git funcionando</title>
+    <title>Branch 3 na área</title>
 </head>
 <body>
-    <h1> Meu primeiro Git</h1>
+    <h1> Meu primeiro Git com branch versao 3 para versão 2</h1>
     <?php 
     echo "\n Minha biblioteca foi carregada";
-    ?>
-    <br>
-    <h1> Meu segundo commit:</h1>
-    <?php 
-    echo "\n Mudando arquivo para registrar meu segundo commit v1.2";
     ?>
 </body>
 </html>
