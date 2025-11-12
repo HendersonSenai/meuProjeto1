@@ -17,5 +17,10 @@ echo "\n Minha biblioteca foi carregada";
     <?php 
     echo "\n Minha biblioteca foi carregada";
     ?>
+    <br>
+    <h1> Meu segundo commit:</h1>
+    <?php 
+    echo "\n Mudando arquivo para registrar meu segundo commit v1.2";
+    ?>
 </body>
 </html>
